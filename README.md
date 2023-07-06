@@ -1,3 +1,7 @@
+# UAS LAB PBK
+NAMA : BONO SEGORO
+NPM  : 213510304
+
 # bono-widget-example
 
 ## Project setup
